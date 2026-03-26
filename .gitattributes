@@ -1,0 +1,7 @@
+# Tell GitHub Linguist to ignore these for language stats
+README.md linguist-documentation=true
+*.md linguist-documentation=true
+*.txt linguist-documentation=true
+*.gradle.kts linguist-language=Kotlin
+fastlane/ linguist-documentation=true
+assets/ linguist-documentation=true
