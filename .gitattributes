@@ -5,3 +5,6 @@ README.md linguist-documentation=true
 *.gradle.kts linguist-language=Kotlin
 fastlane/ linguist-documentation=true
 assets/ linguist-documentation=true
+build/ linguist-vendored=true
+build/reports/ linguist-vendored=true
+*.html linguist-vendored=true
