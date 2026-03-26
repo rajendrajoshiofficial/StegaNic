@@ -80,6 +80,10 @@
         "source": "com.rajendrajoshiofficial.steganic.app-main-5:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.rajendrajoshiofficial.steganic.app-release-4:/xml_network_security_config.xml.flat",
+        "source": "com.rajendrajoshiofficial.steganic.app-main-5:/xml/network_security_config.xml"
+    },
+    {
         "merged": "com.rajendrajoshiofficial.steganic.app-release-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "com.rajendrajoshiofficial.steganic.app-main-5:/mipmap-hdpi/ic_launcher_round.webp"
     },

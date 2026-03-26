@@ -1,3 +1,4 @@
+com.rajendrajoshiofficial.steganic:xml/network_security_config = 0x7f110003
 com.rajendrajoshiofficial.steganic:styleable/TextAppearance = 0x7f100032
 com.rajendrajoshiofficial.steganic:styleable/StateListDrawable = 0x7f10002f
 com.rajendrajoshiofficial.steganic:styleable/PopupWindowBackgroundState = 0x7f10002b
