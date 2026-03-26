@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/drawable/ic_steganic_logo.png" width="140" alt="StegaNic"/>
+<img src="assets/logo.png" width="140" alt="StegaNic"/>
 
 # StegaNic
 
