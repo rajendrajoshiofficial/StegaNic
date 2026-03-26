@@ -1,7 +1,0 @@
-com.rajendrajoshiofficial.steganic.app-resValues-0 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\build\generated\res\resValues\release
-com.rajendrajoshiofficial.steganic.app-updated_navigation_xml-1 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\build\generated\updated_navigation_xml\release
-com.rajendrajoshiofficial.steganic.app-packageReleaseResources-2 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.rajendrajoshiofficial.steganic.app-packageReleaseResources-3 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.rajendrajoshiofficial.steganic.app-release-4 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\build\intermediates\merged_res\release\mergeReleaseResources
-com.rajendrajoshiofficial.steganic.app-main-5 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\src\main\res
-com.rajendrajoshiofficial.steganic.app-release-6 C:\Users\rajen\.gemini\antigravity\playground\silent-solstice\StegaNic\app\src\release\res
