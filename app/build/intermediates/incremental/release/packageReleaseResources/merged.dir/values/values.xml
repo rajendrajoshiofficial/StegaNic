@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_developer">About Developer</string>
+    <string name="app_name">StegaNic</string>
+    <string name="capacity_indicator">Capacity: %1$d / %2$d chars</string>
+    <string name="capture_image">Take Photo</string>
+    <string name="contact_email">rajendrajoshi@zohomail.in</string>
+    <string name="contact_us">Contact Support</string>
+    <string name="decode_button">Extract &amp; Decrypt</string>
+    <string name="decode_tab">Decode</string>
+    <string name="developer_name">Rajendra Joshi Official</string>
+    <string name="empty_vault">Your vault is empty.\nEncode messages to store them here securely.</string>
+    <string name="encode_button">Encode &amp; Save</string>
+    <string name="encode_tab">Encode</string>
+    <string name="password">Password</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="privacy_desc">Read how we protect your data</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="secret_message">Secret Message</string>
+    <string name="settings_tab">Settings</string>
+    <string name="share_app">Share App</string>
+    <string name="share_desc">Recommend StegaNic to friends</string>
+    <string name="theme_desc">Follows system Default</string>
+    <string name="theme_option">App Theme</string>
+    <string name="vault_tab">Vault</string>
+    <string name="version_info">Version 1.0.0</string>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0A0E17</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_steganic_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.SteganoCryx</item>
+    </style>
+    <style name="Theme.SteganoCryx" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+</resources>

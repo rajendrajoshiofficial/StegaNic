@@ -1,0 +1,11 @@
+Initial release of StegaNic v1.0.0.
+
+• AES-256-GCM encryption with PBKDF2 key stretching (250,000 iterations)
+• Lossless 1-Bit LSB steganography for images
+• EOF-based steganography for audio and video carrier files
+• Support for any hidden file format (ZIP, PDF, APK, etc.)
+• Decoy password system
+• Biometric App Lock
+• Stealth Mode (disguise as Calculator)
+• Ultra-modern Sci-Fi UI
+• 100% offline operation

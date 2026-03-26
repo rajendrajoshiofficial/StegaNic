@@ -1,0 +1,14 @@
+StegaNic is a free and open-source Android app that lets you hide any secret message or file inside an ordinary image, audio, or video file using military-grade AES-256-GCM encryption and steganography.
+
+Features:
+• AES-256-GCM Encryption with PBKDF2 key stretching (250,000 iterations)
+• 1-Bit LSB Lossless Steganography for images (zero quality loss)
+• EOF Appending for audio and video carrier files
+• Support for hiding any file format: ZIP, PDF, APK, MP3, MP4, DOCX
+• Decoy/Fake password system for plausible deniability
+• Biometric App Lock (fingerprint / device PIN)
+• Stealth Mode: disguise the app icon as a Calculator
+• 100% offline — no internet permission, no data collection, no tracking
+• Instant sub-1 second app startup
+
+StegaNic follows a Zero-Knowledge architecture: everything is processed locally on your device. No servers. No analytics. No cloud. Your secrets stay yours.

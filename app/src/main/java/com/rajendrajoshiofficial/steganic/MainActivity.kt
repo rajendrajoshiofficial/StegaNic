@@ -1,6 +1,7 @@
 package com.rajendrajoshiofficial.steganic
 
 import android.os.Bundle
+import android.view.WindowManager
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.Box
@@ -53,6 +54,11 @@ class MainActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         val splashScreen = installSplashScreen()
         super.onCreate(savedInstanceState)
+        // SECURITY: Prevent screenshots, screen recording, and recent-apps snapshot
+        window.setFlags(
+            WindowManager.LayoutParams.FLAG_SECURE,
+            WindowManager.LayoutParams.FLAG_SECURE
+        )
         val prefs = getSharedPreferences("steganic_fast_prefs", android.content.Context.MODE_PRIVATE)
         val isFirstLaunch = prefs.getBoolean("is_first_launch", true)
         val isAppLockEnabled = prefs.getBoolean("is_app_lock_enabled", false)

@@ -1,0 +1,1 @@
+StegaNic — Hide secret messages and files inside any image, audio, or video using military-grade AES-256 encryption. Your secrets stay invisible and 100% offline. No servers, no tracking, no compromise.
