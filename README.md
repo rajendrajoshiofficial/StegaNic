@@ -177,13 +177,40 @@ See [LICENSE](LICENSE) for the full GPL v3 text.
 
 <table>
   <tr>
-    <td align="center">
-      <b>Rajendra Joshi Official</b><br/>
-      📧 <a href="mailto:rajendrajoshi@zohomail.in">rajendrajoshi@zohomail.in</a><br/>
-      🐙 <a href="https://github.com/rajendrajoshiofficial">github.com/rajendrajoshiofficial</a>
+    <td align="center" width="200">
+      <b>Rajendra Joshi</b><br/>
+      <sub>Creator & Maintainer</sub><br/><br/>
+      <a href="https://github.com/rajendrajoshiofficial">
+        <img src="https://img.shields.io/badge/GitHub-rajendrajoshiofficial-181717?style=flat-square&logo=github"/>
+      </a><br/>
+      <a href="mailto:rajendrajoshi@zohomail.in">
+        <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+    <td valign="top" style="padding-left: 20px">
+      <b>About the Project</b><br/>
+      StegaNic was built out of a personal need for a truly private,
+      offline steganography tool — one with no tracking, no cloud,
+      and no compromises. Every cryptographic decision was made with
+      the goal of maximum security for the end user.<br/><br/>
+      <i>"Privacy is not something that I'm merely entitled to,
+      it's an absolute prerequisite." — Marlon Brando</i>
     </td>
   </tr>
 </table>
+
+---
+
+## 🙏 Acknowledgements
+
+| Library | Purpose | License |
+|---|---|---|
+| [Jetpack Compose](https://developer.android.com/jetpack/compose) | UI Framework | Apache 2.0 |
+| [AndroidX Biometric](https://developer.android.com/jetpack/androidx/releases/biometric) | App Lock | Apache 2.0 |
+| [AndroidX DataStore](https://developer.android.com/topic/libraries/architecture/datastore) | Preferences | Apache 2.0 |
+| [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines) | Async Operations | Apache 2.0 |
+
+*All cryptographic operations use Android's built-in `javax.crypto` — no third-party crypto libraries.*
 
 ---
 
@@ -200,8 +227,24 @@ Contributions, bug reports, and feature requests are welcome!
 
 <div align="center">
 
-**If StegaNic helped you, please ⭐ star the repository!**
+### Support StegaNic
 
-*Built with ❤️ in India*
+If this project helped you, please consider giving it a ⭐ — it helps others discover it!
+
+[![Star this repo](https://img.shields.io/github/stars/rajendrajoshiofficial/StegaNic?style=social)](https://github.com/rajendrajoshiofficial/StegaNic/stargazers)
+[![Fork this repo](https://img.shields.io/github/forks/rajendrajoshiofficial/StegaNic?style=social)](https://github.com/rajendrajoshiofficial/StegaNic/fork)
+[![Watch this repo](https://img.shields.io/github/watchers/rajendrajoshiofficial/StegaNic?style=social)](https://github.com/rajendrajoshiofficial/StegaNic/watchers)
+
+---
+
+[![Made in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India%20🇮🇳-FF9933?style=for-the-badge)](https://github.com/rajendrajoshiofficial)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Forever-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org)
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge)](LICENSE)
+
+*StegaNic is and will always remain free, open source, and privacy-first.*
+
+Built with ❤️ in India by [rajendrajoshi](https://github.com/rajendrajoshiofficial)
+
+Copyright © 2026 [Rajendra Joshi](https://github.com/rajendrajoshiofficial) — Released under [GPL v3](LICENSE)
 
 </div>
