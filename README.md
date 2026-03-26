@@ -31,6 +31,19 @@ StegaNic lets you embed **any file or message** inside a photo, song, or video �
 
 ---
 
+## 📸 Visual Experience
+
+<div align="center">
+
+| Encode Feature | Decode Feature | App Settings |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/1_encode.png" width="220" /> | <img src="assets/screenshots/2_decode.png" width="220" /> | <img src="assets/screenshots/3_settings.png" width="220" /> |
+| Industrial AES-256 | Fast Extraction | Deep Personalization |
+
+</div>
+
+---
+
 ## ✨ Features
 
 | Category | Feature | Details |
